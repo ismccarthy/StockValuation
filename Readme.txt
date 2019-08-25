@@ -1,4 +1,4 @@
-A discounted cash flow valuation of stock price and the Black & Scholes valuation of option prices.
+A discounted cash flow valuation of stock prices and the Black & Scholes valuation of option prices.
 
 Created in Python, typically I’d do something like this Excel.
 
